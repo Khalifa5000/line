@@ -1,0 +1,28 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+caption{
+    font-size: larger;
+    font-weight: bold;
+    margin: 5px;
+}
+table{
+    width: 600px;
+    height: auto;
+    margin: 200px auto;
+    text-align: center;
+    border-collapse: collapse;
+}
+td , th{
+    height: 40px;
+    line-height: 40px;
+    border: 2px solid #000;
+}
+th{
+    background-color: rgb(224, 222, 222);
+}    
+h1{
+color:rgb(119, 50, 197);
+}
