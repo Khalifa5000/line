@@ -3,6 +3,9 @@ body{
     margin: 0;
     box-sizing: border-box;
 }
+p{
+    font-size: 20px;
+}
 caption{
     font-size: larger;
     font-weight: bold;
