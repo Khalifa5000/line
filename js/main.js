@@ -1,5 +1,6 @@
-let input = document.querySelector("input");
-input.onclick = function(){
-input.style.color= "green";
+let item = document.querySelector("h1");
+item.onclick = function(){
+item.style.color= "green";
 }
+
 
